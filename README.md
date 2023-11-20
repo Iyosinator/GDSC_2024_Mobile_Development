@@ -1,2 +1,2 @@
 # GDSC_2024_Mobile_Development
-GDSC Flutter Course
+GDSC AASTU Flutter Course
